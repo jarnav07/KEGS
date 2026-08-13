@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="MicroPythonToolsStubs" type="python">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../../Application Support/micropython-tools-jetbrains/stubs/micropython-rp2-rpi_pico-stubs_1.23.0" />
+      <root url="file://$PROJECT_DIR$/../../../../../Application Support/micropython-tools-jetbrains/stubs/micropython-rp2-rpi_pico-stubs_1.23.0/stdlib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
