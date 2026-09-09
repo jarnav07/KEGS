@@ -1,4 +1,4 @@
-# Rocket Telemetry System
+# Kinematic Event Guidance System (KEGS)
 
 <p align="center">
   <strong>Embedded flight-data acquisition and sensor-fusion system for model rocket avionics</strong>
