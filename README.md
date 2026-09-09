@@ -1,6 +1,5 @@
-<h align="center">
+
 # Kinematic Event Guidance System (KEGS)
-</h>
 
 <p align="center">
   <strong>Embedded flight-data acquisition and sensor-fusion system for model rocket avionics</strong>
